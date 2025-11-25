@@ -1,6 +1,6 @@
 ---
 # Display name
-title: RoboNush
+title: Tamima Tabassum (Nushin)
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -49,8 +49,6 @@ education:
     icon: ""
     date_start: 2025-08-01
     date_end: 2029-08-31
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
 
   - area: BSc Electrical and Electronic Engineering
     institution: North South University
@@ -113,9 +111,8 @@ skills:
 
 languages:
   - name: English
-    percent: 100
   - name: Bengali
-    percent: 100
+    
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -145,4 +142,7 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Hi! I’m a Ph.D. student at The Chinese University of Hong Kong (CUHK) in Electronic Engineering, supervised by Prof. Hongliang Ren in the Medical Mechatronics Lab. My research focuses on developing intelligent systems that bridge engineering innovation with clinical needs.  
+
+Feel free to reach out with ideas!
+
