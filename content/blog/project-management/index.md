@@ -85,10 +85,10 @@
 # - [ ] Do something else
 # ```
 
-renders as
+# renders as
 
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
+# - [x] Write math example
+#  - [x] Write diagram example
+# - [ ] Do something else
 
 ## Did you find this page helpful? Consider sharing it 🙌
